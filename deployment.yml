@@ -17,5 +17,3 @@ spec:
           image: vinodhconnects/web234
           ports:
             - containerPort: 80
-         
- 
